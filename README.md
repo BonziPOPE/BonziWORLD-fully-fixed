@@ -18,14 +18,6 @@ git clone https://github.com/joseph14078/BonziWORLD
 cd BonziWORLD
 ```
 
-### Client
-```
-cd src
-npm install
-grunt build_www
-cd ..
-```
-
 ### Server
 ```
 cd server
